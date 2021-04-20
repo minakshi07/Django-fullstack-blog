@@ -130,7 +130,7 @@ protobuf==3.11.3
 psycopg2==2.8.4
 ptyprocess==0.6.0
 public==2019.4.13
-py==1.8.1
+py==1.10.0
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
 pycparser==2.19
