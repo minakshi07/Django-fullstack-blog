@@ -100,7 +100,7 @@ Markdown==3.1.1
 MarkupSafe==1.1.1
 matplotlib==3.1.1
 mime==0.1.0
-mistune==0.8.4
+mistune==2.0.3
 more-itertools==8.2.0
 Naked==0.1.31
 nbconvert==5.6.1
